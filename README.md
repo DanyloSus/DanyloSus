@@ -34,6 +34,6 @@ language and English at the B1 level.</h4>
 <a href="https://instagram.com/danylo.sus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danylo.sus" height="30" width="40" /></a>
 </p>
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=danylosus&show_icons=true&locale=en&layout=compact" alt="danylosus" />
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=danylosus&show_icons=true&locale=en&layout=compact" alt="danylosus" />
 
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api?username=danylosus&show_icons=true&locale=en" alt="danylosus" />
+<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api?username=danylosus&show_icons=true&locale=en" alt="danylosus" />
