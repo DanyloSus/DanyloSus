@@ -27,11 +27,6 @@ language and English at the B1 level.</h4>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  </p>
-  
-  
-  
-  
-
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
@@ -39,6 +34,6 @@ language and English at the B1 level.</h4>
 <a href="https://instagram.com/danylo.sus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danylo.sus" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=danylosus&show_icons=true&locale=en&layout=compact" alt="danylosus" /></p>
+<p><img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=danylosus&show_icons=true&locale=en&layout=compact" alt="danylosus" /></p>
 
-<p>&nbsp;<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=danylosus&show_icons=true&locale=en" alt="danylosus" /></p>
+<p>&nbsp;<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=danylosus&show_icons=true&locale=en" alt="danylosus" /></p>
